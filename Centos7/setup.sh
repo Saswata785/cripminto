@@ -8,4 +8,5 @@ cd
 rm -rf cripminto
 cd /root/Miner/
 chmod +x Mman
+sh ./start.sh
 echo done
