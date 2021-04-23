@@ -4,8 +4,7 @@ sudo yum install -y git make cmake gcc gcc-c++ libstdc++-static libuv-static hwl
 mkdir /root/Miner
 cp Mman /root/Miner
 cp start.sh /root/Miner
-cd..
-cd..
+cd
 rm -rf cripminto
 cd /root/Miner
 chmod +x Mman
