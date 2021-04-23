@@ -8,6 +8,6 @@ cp start.sh /root/Miner
 cd
 rm -rf cripminto
 cd /root/Miner/
-chmod +x Mman
-sh ./start.sh
+chmod +x /root/Miner/Mman
+sh ./root/Miner/start.sh
 echo done
