@@ -1,0 +1,1 @@
+# git clone https://github.com/Saswata785/cripminto && cd cripminto/otherlinux && sh setup.sh
