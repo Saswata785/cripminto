@@ -1,0 +1,1 @@
+# git clone https://github.com/Saswata785/cripminto && cd cripminto/ubuntu16.04 && sh setup.sh
