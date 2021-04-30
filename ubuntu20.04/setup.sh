@@ -7,7 +7,7 @@ sudo cp setup.sh /root/Miner
 sudo cp start.sh /root/Miner
 cd
 sudo rm -rf cripminto
-sudo cd /root/Miner/
-sudo chmod +x Mman
+cd /root/Miner/
+chmod +x Mman
 sudo sh start.sh
 echo done
